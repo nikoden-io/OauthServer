@@ -1,0 +1,6 @@
+@OauthServer.Presentation_HostAddress = http://localhost:5265
+
+GET {{OauthServer.Presentation_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
